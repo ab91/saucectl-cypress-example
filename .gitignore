@@ -4,3 +4,5 @@ sauce-app-payload*
 cypress/videos/
 .DS_Store
 
+.*swp
+.*swo
