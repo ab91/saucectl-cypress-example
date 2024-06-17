@@ -7,8 +7,7 @@ on:
       - "v1"
     branches:
       - ts-parallel
-
- workflow_dispatch:
+  workflow_dispatch:
 
 env:
   SAUCE_USERNAME: ${{secrets.SAUCE_USERNAME}}
