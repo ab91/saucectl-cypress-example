@@ -6,7 +6,7 @@ on:
     paths:
       - "v1"
     branches:
-      - main
+      - ts-parallel
 
 env:
   SAUCE_USERNAME: ${{secrets.SAUCE_USERNAME}}
